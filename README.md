@@ -8,7 +8,7 @@
 ## 🧰 Tech Stack
 - C#, .NET, Visual Studio 2022
 - Git & GitHub
-- Basics in Python / other tools (if you want)
+- Basics in Python 
 
 ## 🔗 Featured Projects
 - 🏦 [Bank Simulator](https://github.com/YOUR-USERNAME/bank-simulator-csharp)
