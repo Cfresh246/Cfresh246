@@ -11,7 +11,7 @@
 - Basics in Python 
 
 ## 🔗 Featured Projects
-- 🏦 [Bank Simulator](https://github.com/Cfresh/bank-simulator-csharp)
+- 🏦 [Bank Simulator](https://github.com/Cfresh246/Bank-Simulator)
 
 
 
