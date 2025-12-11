@@ -1,7 +1,7 @@
 ## Hi, I'm Chris 👋
 
 - 🎓 Computer Science student (C# / .NET focus)
-- 💻 Building console apps: Bank Simulator, Pet Manager, Inventory system, Calculator
+- 💻 Building console apps: Bank Simulator
 - 🚀 Learning Git, GitHub, and clean architecture
 - 🌱 Currently working on: improving my C# OOP and Git workflows
 
